@@ -13,21 +13,4 @@ div {
     width: 100%;
 }
 
-.rwandaful-img767 {
-    display: none;
-}
 
-
-@media (max-width: 767px) {
-
-    
-    .rwandaful-img {
-        display: none;
-    }
-    
-    .rwandaful-img767 {
-        width: 100%;
-        display: block;
-    }
-    
-}
